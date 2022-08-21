@@ -20,7 +20,7 @@ class PayMob
     /**
      * Send POST cURL request to paymob servers.
      *
-     * @param  string  $url
+     * @param  string  $ay7aga
      * @param  array  $json
      * @return array
      */
